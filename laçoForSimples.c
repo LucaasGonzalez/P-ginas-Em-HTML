@@ -1,4 +1,4 @@
-// Programa em Python:
+// Programa em C:
 // Laço for simples.
 // Se te ajudei com o código, me siga no instagram @xluucas.
 
